@@ -1,0 +1,360 @@
+# File Index
+
+Total organized files: **354**
+
+## Original Path → New Path
+
+- `C_Git/helloworld/Practice/main.c` → `01_Basics/Hello_World/Practice/main.c`
+- `C_Git/helloworld/tst4.c/main.c` → `01_Basics/Hello_World/tst4/main.c`
+- `C_Git/helloworld/tst5.c/main.c` → `01_Basics/Hello_World/tst5/main.c`
+- `C_Git/helloworld/tst5.c/tst6.c` → `01_Basics/Hello_World/tst5/tst6.c`
+- `C_Git/Pattern printing/1.c` → `04_Pattern_Printing/Pattern_Printing/1.c`
+- `C_Git/Pattern printing/10.c` → `04_Pattern_Printing/Pattern_Printing/10.c`
+- `C_Git/Pattern printing/11.c` → `04_Pattern_Printing/Pattern_Printing/11.c`
+- `C_Git/Pattern printing/13.c` → `04_Pattern_Printing/Pattern_Printing/13.c`
+- `C_Git/Pattern printing/2.c` → `04_Pattern_Printing/Pattern_Printing/2.c`
+- `C_Git/Pattern printing/3.c` → `04_Pattern_Printing/Pattern_Printing/3.c`
+- `C_Git/Pattern printing/4.c` → `04_Pattern_Printing/Pattern_Printing/4.c`
+- `C_Git/Pattern printing/5.c` → `04_Pattern_Printing/Pattern_Printing/5.c`
+- `C_Git/Pattern printing/6.c` → `04_Pattern_Printing/Pattern_Printing/6.c`
+- `C_Git/Pattern printing/7.c` → `04_Pattern_Printing/Pattern_Printing/7.c`
+- `C_Git/Pattern printing/8.c` → `04_Pattern_Printing/Pattern_Printing/8.c`
+- `C_Git/Pattern printing/9.c` → `04_Pattern_Printing/Pattern_Printing/9.c`
+- `C_Git/Pattern printing/important1.c` → `04_Pattern_Printing/Pattern_Printing/important1.c`
+- `C_Git/Pattern printing/Memorisingpatterrn.c` → `04_Pattern_Printing/Pattern_Printing/memorizingpattern.c`
+- `C_Git/Pattern printing/memorisingpattern2.c` → `04_Pattern_Printing/Pattern_Printing/memorizingpattern2.c`
+- `C_Git/Pattern printing/memorisingpattern3.c` → `04_Pattern_Printing/Pattern_Printing/memorizingpattern3.c`
+- `C_Git/Pattern printing/practice.c` → `04_Pattern_Printing/Pattern_Printing/practice.c`
+- `C_Git/Pattern printing/practice4.c` → `04_Pattern_Printing/Pattern_Printing/practice4.c`
+- `C_Git/Pattern printing/uncommon.c` → `04_Pattern_Printing/Pattern_Printing/uncommon.c`
+- `C_Git/Pattern printing/uncommon2.c` → `04_Pattern_Printing/Pattern_Printing/uncommon2.c`
+- `C_Git/Array/1.c` → `05_Arrays/Array/1.c`
+- `C_Git/Array/11.c` → `05_Arrays/Array/11.c`
+- `C_Git/Array/2.c` → `05_Arrays/Array/2.c`
+- `C_Git/Array/3.c` → `05_Arrays/Array/3.c`
+- `C_Git/Array/4.c` → `05_Arrays/Array/4.c`
+- `C_Git/Array/5.c` → `05_Arrays/Array/5.c`
+- `C_Git/Array/6.c` → `05_Arrays/Array/6.c`
+- `C_Git/Array/7.c` → `05_Arrays/Array/7.c`
+- `C_Git/Array/8.c` → `05_Arrays/Array/8.c`
+- `C_Git/Array/9.c` → `05_Arrays/Array/9.c`
+- `C_Git/Array/search.c].txt` → `05_Arrays/Array/Data_Files/search_c.txt`
+- `C_Git/Array/add_sub_to_index.c` → `05_Arrays/Array/add_sub_to_index.c`
+- `C_Git/Array/M.c` → `05_Arrays/Array/m.c`
+- `C_Git/Array/max_even.c` → `05_Arrays/Array/max_even.c`
+- `C_Git/Array/memorisingpattern3.c` → `05_Arrays/Array/memorizingpattern3.c`
+- `C_Git/Array/practice2.c` → `05_Arrays/Array/practice2.c`
+- `C_Git/Array/practice3.c` → `05_Arrays/Array/practice3.c`
+- `C_Git/Array/practice5.c` → `05_Arrays/Array/practice5.c`
+- `C_Git/Array/search.c` → `05_Arrays/Array/search.c`
+- `C_Git/Array/swapping_numbers.c` → `05_Arrays/Array/swapping_numberbers.c`
+- `C_Git/Array/valuedeletion.c` → `05_Arrays/Array/valuedeletion.c`
+- `C_Git/2D Array/1.c` → `06_2D_Arrays_and_Matrix/2D_Array/1.c`
+- `C_Git/2D Array/2.c` → `06_2D_Arrays_and_Matrix/2D_Array/2.c`
+- `C_Git/2D Array/adding_2_arrays_in_third_arrays.c` → `06_2D_Arrays_and_Matrix/2D_Array/adding_2_arrays_in_third_arrays.c`
+- `C_Git/2D Array/basic_2d.c` → `06_2D_Arrays_and_Matrix/2D_Array/basic_2d.c`
+- `C_Git/2D Array/determinant.c` → `06_2D_Arrays_and_Matrix/2D_Array/determinant.c`
+- `C_Git/2D Array/diagonal.c` → `06_2D_Arrays_and_Matrix/2D_Array/diagonal.c`
+- `C_Git/2D Array/identity_matrix.c` → `06_2D_Arrays_and_Matrix/2D_Array/identity_matrix.c`
+- `C_Git/2D Array/initializing1.c` → `06_2D_Arrays_and_Matrix/2D_Array/initializing1.c`
+- `C_Git/2D Array/major_minor_diagonal.c` → `06_2D_Arrays_and_Matrix/2D_Array/major_minor_diagonal.c`
+- `C_Git/String/add_digits_in_string.c` → `07_Strings/String/add_digits_in_string.c`
+- `C_Git/String/Alphabeticalorder.c` → `07_Strings/String/alphabeticalorder.c`
+- `C_Git/String/copywlib.c` → `07_Strings/String/copywlib.c`
+- `C_Git/String/demo.c` → `07_Strings/String/demo.c`
+- `C_Git/String/length.c` → `07_Strings/String/length.c`
+- `C_Git/String/lowertoupper.c` → `07_Strings/String/lowertoupper.c`
+- `C_Git/String/max_occurring.c` → `07_Strings/String/max_occurring.c`
+- `C_Git/String/occurences.c` → `07_Strings/String/occurrences.c`
+- `C_Git/String/palindrome.c` → `07_Strings/String/palindromee.c`
+- `C_Git/String/project_1.c` → `07_Strings/String/project_1.c`
+- `C_Git/String/rem_rep_char.c` → `07_Strings/String/rem_rep_char.c`
+- `C_Git/String/reverse.c` → `07_Strings/String/reverseerse.c`
+- `C_Git/String/reverse_word.c` → `07_Strings/String/reverseerse_word.c`
+- `C_Git/String/vowel.c` → `07_Strings/String/vowel.c`
+- `C_Git/String/word_count.c` → `07_Strings/String/word_count.c`
+- `C_Git/String/word_occurences_Count.c` → `07_Strings/String/word_occurrences_count.c`
+- `C_Git/Function/ispprimec.txt` → `08_Functions/Function/Data_Files/ispprimec.txt`
+- `C_Git/Function/array_even.c` → `08_Functions/Function/array_even.c`
+- `C_Git/Function/Array_sorting.c` → `08_Functions/Function/array_sorting.c`
+- `C_Git/Function/Assignment.c` → `08_Functions/Function/assignment.c`
+- `C_Git/Function/Assignment1.c` → `08_Functions/Function/assignment1.c`
+- `C_Git/Function/average.c` → `08_Functions/Function/average.c`
+- `C_Git/Function/basic_function.c` → `08_Functions/Function/basic_function.c`
+- `C_Git/Function/even_odd.c` → `08_Functions/Function/even_odd.c`
+- `C_Git/Function/factorial.c` → `08_Functions/Function/factorial.c`
+- `C_Git/Function/factorial_2.c` → `08_Functions/Function/factorial_2.c`
+- `C_Git/Function/Generateprime.c` → `08_Functions/Function/generateprime.c`
+- `C_Git/Function/GenNthprime.c` → `08_Functions/Function/gennthprime.c`
+- `C_Git/Function/global_local_var.c` → `08_Functions/Function/global_local_var.c`
+- `C_Git/Function/greater.c` → `08_Functions/Function/greater.c`
+- `C_Git/Function/ispprimec.c` → `08_Functions/Function/ispprimec.c`
+- `C_Git/Function/length.c` → `08_Functions/Function/length.c`
+- `C_Git/Function/min.c` → `08_Functions/Function/min.c`
+- `C_Git/Function/multiple_array.c` → `08_Functions/Function/multiple_array.c`
+- `C_Git/Function/multiple_func.c` → `08_Functions/Function/multiple_func.c`
+- `C_Git/Function/p1.c` → `08_Functions/Function/p1.c`
+- `C_Git/Function/p2.c` → `08_Functions/Function/p2.c`
+- `C_Git/Function/pos_neg_zero.c` → `08_Functions/Function/pos_neg_zero.c`
+- `C_Git/Function/pow.c` → `08_Functions/Function/pow.c`
+- `C_Git/Function/qs_1.c` → `08_Functions/Function/qs_1.c`
+- `C_Git/Function/reverse.c` → `08_Functions/Function/reverseerse.c`
+- `C_Git/Function/rough.c` → `08_Functions/Function/rough.c`
+- `C_Git/Function/spl_theo.c` → `08_Functions/Function/spl_theo.c`
+- `C_Git/Function/STR1.c` → `08_Functions/Function/str1.c`
+- `C_Git/Function/string.c` → `08_Functions/Function/string.c`
+- `C_Git/Function/strring.c` → `08_Functions/Function/string_2.c`
+- `C_Git/Function/string_cmp.c` → `08_Functions/Function/string_cmp.c`
+- `C_Git/Function/string_copy.c` → `08_Functions/Function/string_copy.c`
+- `C_Git/Function/sum_main.c` → `08_Functions/Function/sum_main.c`
+- `C_Git/Function/summer24_1.c` → `08_Functions/Function/summer24_1.c`
+- `C_Git/Function/swap.c` → `08_Functions/Function/swap.c`
+- `C_Git/Recursion/display_num.c` → `09_Recursion/Recursion/display_number.c`
+- `C_Git/Recursion/factorial.c` → `09_Recursion/Recursion/factorial.c`
+- `C_Git/Recursion/fib.c` → `09_Recursion/Recursion/fib.c`
+- `C_Git/Recursion/fibonacci.c` → `09_Recursion/Recursion/fibonacci.c`
+- `C_Git/Recursion/print.c` → `09_Recursion/Recursion/print.c`
+- `C_Git/Recursion/sum.c` → `09_Recursion/Recursion/sum.c`
+- `C_Git/Function/Pointer/add.c` → `10_Pointers/Function/Pointer/add.c`
+- `C_Git/Function/Pointer/array_pointer.c` → `10_Pointers/Function/Pointer/array_pointer.c`
+- `C_Git/Function/Pointer/copy_array.c` → `10_Pointers/Function/Pointer/copy_array.c`
+- `C_Git/Function/Pointer/copy_sr_dest.c` → `10_Pointers/Function/Pointer/copy_sr_dest.c`
+- `C_Git/Function/Pointer/even_odd.c` → `10_Pointers/Function/Pointer/even_odd.c`
+- `C_Git/Function/Pointer/func_inc.c` → `10_Pointers/Function/Pointer/func_inc.c`
+- `C_Git/Function/Pointer/input_output.c` → `10_Pointers/Function/Pointer/input_output.c`
+- `C_Git/Function/Pointer/length_pointer.c` → `10_Pointers/Function/Pointer/length_pointer.c`
+- `C_Git/Function/Pointer/rev.c` → `10_Pointers/Function/Pointer/reverse.c`
+- `C_Git/Function/Pointer/swap.c` → `10_Pointers/Function/Pointer/swap.c`
+- `C_Git/Function/pointer.c` → `10_Pointers/Function/pointer.c`
+- `C_Git/Structure/input_output.txt` → `11_Structures/Structure/Data_Files/input_output.txt`
+- `C_Git/Structure/basic_struct.c` → `11_Structures/Structure/basic_struct.c`
+- `C_Git/Structure/cmp_struct.c` → `11_Structures/Structure/cmp_struct.c`
+- `C_Git/Structure/input_output.c` → `11_Structures/Structure/input_output.c`
+- `C_Git/Structure/triangle_struct.c` → `11_Structures/Structure/triangle_struct.c`
+- `C_Git/file/input.txt` → `12_File_Handling/File_Handling/Data_Files/input.txt`
+- `C_Git/file/output.txt` → `12_File_Handling/File_Handling/Data_Files/output.txt`
+- `C_Git/file/sample.txt` → `12_File_Handling/File_Handling/Data_Files/sample.txt`
+- `C_Git/file/basic_file.c` → `12_File_Handling/File_Handling/basic_file.c`
+- `C_Git/file/file.c` → `12_File_Handling/File_Handling/file.c`
+- `C_Git/file/read_file.c` → `12_File_Handling/File_Handling/read_file.c`
+- `C_Git/SPL LAB/3.c` → `13_SPL_Lab_Problems/SPL_LAB/3.c`
+- `C_Git/SPL LAB/4.c` → `13_SPL_Lab_Problems/SPL_LAB/4.c`
+- `C_Git/SPL LAB/5.c` → `13_SPL_Lab_Problems/SPL_LAB/5.c`
+- `C_Git/SPL LAB/loop1.c` → `13_SPL_Lab_Problems/SPL_LAB/loop1.c`
+- `C_Git/SPL LAB/loop10.c` → `13_SPL_Lab_Problems/SPL_LAB/loop10.c`
+- `C_Git/SPL LAB/loop2.c` → `13_SPL_Lab_Problems/SPL_LAB/loop2.c`
+- `C_Git/SPL LAB/loop3.c` → `13_SPL_Lab_Problems/SPL_LAB/loop3.c`
+- `C_Git/SPL LAB/loop4.c` → `13_SPL_Lab_Problems/SPL_LAB/loop4.c`
+- `C_Git/SPL LAB/loop5.c` → `13_SPL_Lab_Problems/SPL_LAB/loop5.c`
+- `C_Git/SPL LAB/loop6.c` → `13_SPL_Lab_Problems/SPL_LAB/loop6.c`
+- `C_Git/SPL LAB/loop7.c` → `13_SPL_Lab_Problems/SPL_LAB/loop7.c`
+- `C_Git/SPL LAB/loop8.c` → `13_SPL_Lab_Problems/SPL_LAB/loop8.c`
+- `C_Git/SPL LAB/loop9.c` → `13_SPL_Lab_Problems/SPL_LAB/loop9.c`
+- `C_Git/SPL LAB/oddusingcont.c` → `13_SPL_Lab_Problems/SPL_LAB/oddusingcont.c`
+- `C_Git/SPL LAB/reverseofanumber.c` → `13_SPL_Lab_Problems/SPL_LAB/reverseerseofanumberber.c`
+- `C_Git/SPL LAB/rndm1.c` → `13_SPL_Lab_Problems/SPL_LAB/rndm1.c`
+- `C_Git/SPL LAB/Sumofallevendigits.c` → `13_SPL_Lab_Problems/SPL_LAB/sum_ofallevendigits.c`
+- `C_Git/SPL LAB/sumofalltheodddigits.c` → `13_SPL_Lab_Problems/SPL_LAB/sum_ofalltheodddigits.c`
+- `C_Git/SPL LAB/summofthenumanditisrev.c` → `13_SPL_Lab_Problems/SPL_LAB/summofthenumberanditisreverse.c`
+- `C_Git/SPL Lab Aadeeb/pb29.cv.txt` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/Data_Files/pb29_cv.txt`
+- `C_Git/SPL Lab Aadeeb/New codes/2D_matrix_max.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/2d_matrix_max.c`
+- `C_Git/SPL Lab Aadeeb/New codes/2D_matrix_mul.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/2d_matrix_mul.c`
+- `C_Git/SPL Lab Aadeeb/New codes/array_input_output.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/array_input_output.c`
+- `C_Git/SPL Lab Aadeeb/New codes/basic_left_triangle.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/basic_left_triangle.c`
+- `C_Git/SPL Lab Aadeeb/New codes/basic_pattern.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/basic_pattern.c`
+- `C_Git/SPL Lab Aadeeb/New codes/basic_pattern2.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/basic_pattern2.c`
+- `C_Git/SPL Lab Aadeeb/New codes/basic_pyramid.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/basic_pyramid.c`
+- `C_Git/SPL Lab Aadeeb/New codes/basic_star_pattern.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/basic_star_pattern.c`
+- `C_Git/SPL Lab Aadeeb/New codes/binary_patterrn.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/binary_pattern.c`
+- `C_Git/SPL Lab Aadeeb/New codes/copy_array_elements.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/copy_array_elements.c`
+- `C_Git/SPL Lab Aadeeb/New codes/CT-2_pattern.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/ct_2_pattern.c`
+- `C_Git/SPL Lab Aadeeb/New codes/dino.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/dino.c`
+- `C_Git/SPL Lab Aadeeb/New codes/factorial.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/factorial.c`
+- `C_Git/SPL Lab Aadeeb/New codes/GCD-LCM.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/gcd_lcm.c`
+- `C_Git/SPL Lab Aadeeb/New codes/hello.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/hello.c`
+- `C_Git/SPL Lab Aadeeb/New codes/left_triangle.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/left_triangle.c`
+- `C_Git/SPL Lab Aadeeb/New codes/mid_question.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/mid_question.c`
+- `C_Git/SPL Lab Aadeeb/New codes/negativeseries.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/negativeseries.c`
+- `C_Git/SPL Lab Aadeeb/New codes/odd_rectangle.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/odd_rectangle.c`
+- `C_Git/SPL Lab Aadeeb/New codes/palindrom_leet.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/palindrome_leet.c`
+- `C_Git/SPL Lab Aadeeb/New codes/palindrome.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/palindromee.c`
+- `C_Git/SPL Lab Aadeeb/New codes/pattern_2darray.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/pattern_2darray.c`
+- `C_Git/SPL Lab Aadeeb/New codes/printing space for basic pattern.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/printing_space_for_basic_pattern.c`
+- `C_Git/SPL Lab Aadeeb/New codes/printing_space_for_basic_pattern.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/printing_space_for_basic_pattern_2.c`
+- `C_Git/SPL Lab Aadeeb/New codes/regularpattern.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/regularpattern.c`
+- `C_Git/SPL Lab Aadeeb/New codes/reverse.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/reverseerse.c`
+- `C_Git/SPL Lab Aadeeb/New codes/reverse_array.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/reverseerse_array.c`
+- `C_Git/SPL Lab Aadeeb/New codes/reverse printing of a num.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/reverseerse_printing_of_a_number.c`
+- `C_Git/SPL Lab Aadeeb/New codes/row_diagonal_sum.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/row_diagonal_sum.c`
+- `C_Git/SPL Lab Aadeeb/New codes/sorted_array.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/sorted_array.c`
+- `C_Git/SPL Lab Aadeeb/New codes/symmetric_mat.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/symmetric_mat.c`
+- `C_Git/SPL Lab Aadeeb/New codes/timepass.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/timepass.c`
+- `C_Git/SPL Lab Aadeeb/New codes/unique_diamond.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/unique_diamond.c`
+- `C_Git/SPL Lab Aadeeb/New codes/X_pattern.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/x_pattern.c`
+- `C_Git/SPL Lab Aadeeb/New codes/Z_pattern.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/New_Codes/z_pattern.c`
+- `C_Git/SPL Lab Aadeeb/pb1.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb1.c`
+- `C_Git/SPL Lab Aadeeb/pb10.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb10.c`
+- `C_Git/SPL Lab Aadeeb/pb11.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb11.c`
+- `C_Git/SPL Lab Aadeeb/pb12.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb12.c`
+- `C_Git/SPL Lab Aadeeb/pb14.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb14.c`
+- `C_Git/SPL Lab Aadeeb/pb15.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb15.c`
+- `C_Git/SPL Lab Aadeeb/pb16.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb16.c`
+- `C_Git/SPL Lab Aadeeb/pb17.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb17.c`
+- `C_Git/SPL Lab Aadeeb/pb18.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb18.c`
+- `C_Git/SPL Lab Aadeeb/pb19.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb19.c`
+- `C_Git/SPL Lab Aadeeb/pb2.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb2.c`
+- `C_Git/SPL Lab Aadeeb/pb20.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb20.c`
+- `C_Git/SPL Lab Aadeeb/pb21.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb21.c`
+- `C_Git/SPL Lab Aadeeb/pb22.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb22.c`
+- `C_Git/SPL Lab Aadeeb/pb23.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb23.c`
+- `C_Git/SPL Lab Aadeeb/pb24.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb24.c`
+- `C_Git/SPL Lab Aadeeb/pb25.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb25.c`
+- `C_Git/SPL Lab Aadeeb/pb26.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb26.c`
+- `C_Git/SPL Lab Aadeeb/pb27.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb27.c`
+- `C_Git/SPL Lab Aadeeb/pb28.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb28.c`
+- `C_Git/SPL Lab Aadeeb/pb29.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb29.c`
+- `C_Git/SPL Lab Aadeeb/pb3.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb3.c`
+- `C_Git/SPL Lab Aadeeb/pb30.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb30.c`
+- `C_Git/SPL Lab Aadeeb/pb4.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb4.c`
+- `C_Git/SPL Lab Aadeeb/pb5,c.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb5_c.c`
+- `C_Git/SPL Lab Aadeeb/pb7.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb7.c`
+- `C_Git/SPL Lab Aadeeb/pb8.c` → `13_SPL_Lab_Problems/SPL_Lab_Aadeeb/pb8.c`
+- `C_Git/ICSSolution/1.c` → `14_ICS_Solutions/ICS_Solution/1.c`
+- `C_Git/ICSSolution/10.c` → `14_ICS_Solutions/ICS_Solution/10.c`
+- `C_Git/ICSSolution/11.c` → `14_ICS_Solutions/ICS_Solution/11.c`
+- `C_Git/ICSSolution/12.c` → `14_ICS_Solutions/ICS_Solution/12.c`
+- `C_Git/ICSSolution/13.c` → `14_ICS_Solutions/ICS_Solution/13.c`
+- `C_Git/ICSSolution/14.c` → `14_ICS_Solutions/ICS_Solution/14.c`
+- `C_Git/ICSSolution/15.c` → `14_ICS_Solutions/ICS_Solution/15.c`
+- `C_Git/ICSSolution/16.c` → `14_ICS_Solutions/ICS_Solution/16.c`
+- `C_Git/ICSSolution/17.c` → `14_ICS_Solutions/ICS_Solution/17.c`
+- `C_Git/ICSSolution/18.c` → `14_ICS_Solutions/ICS_Solution/18.c`
+- `C_Git/ICSSolution/19.c` → `14_ICS_Solutions/ICS_Solution/19.c`
+- `C_Git/ICSSolution/2.c` → `14_ICS_Solutions/ICS_Solution/2.c`
+- `C_Git/ICSSolution/20.c` → `14_ICS_Solutions/ICS_Solution/20.c`
+- `C_Git/ICSSolution/21.c` → `14_ICS_Solutions/ICS_Solution/21.c`
+- `C_Git/ICSSolution/22.c` → `14_ICS_Solutions/ICS_Solution/22.c`
+- `C_Git/ICSSolution/23.c` → `14_ICS_Solutions/ICS_Solution/23.c`
+- `C_Git/ICSSolution/24.c` → `14_ICS_Solutions/ICS_Solution/24.c`
+- `C_Git/ICSSolution/25.c` → `14_ICS_Solutions/ICS_Solution/25.c`
+- `C_Git/ICSSolution/26.c` → `14_ICS_Solutions/ICS_Solution/26.c`
+- `C_Git/ICSSolution/27.c` → `14_ICS_Solutions/ICS_Solution/27.c`
+- `C_Git/ICSSolution/28.c` → `14_ICS_Solutions/ICS_Solution/28.c`
+- `C_Git/ICSSolution/29.c` → `14_ICS_Solutions/ICS_Solution/29.c`
+- `C_Git/ICSSolution/3.c` → `14_ICS_Solutions/ICS_Solution/3.c`
+- `C_Git/ICSSolution/30.c` → `14_ICS_Solutions/ICS_Solution/30.c`
+- `C_Git/ICSSolution/31.c` → `14_ICS_Solutions/ICS_Solution/31.c`
+- `C_Git/ICSSolution/32.c` → `14_ICS_Solutions/ICS_Solution/32.c`
+- `C_Git/ICSSolution/33.c` → `14_ICS_Solutions/ICS_Solution/33.c`
+- `C_Git/ICSSolution/34.c` → `14_ICS_Solutions/ICS_Solution/34.c`
+- `C_Git/ICSSolution/35.c` → `14_ICS_Solutions/ICS_Solution/35.c`
+- `C_Git/ICSSolution/36.c` → `14_ICS_Solutions/ICS_Solution/36.c`
+- `C_Git/ICSSolution/37.c` → `14_ICS_Solutions/ICS_Solution/37.c`
+- `C_Git/ICSSolution/38.c` → `14_ICS_Solutions/ICS_Solution/38.c`
+- `C_Git/ICSSolution/39.c` → `14_ICS_Solutions/ICS_Solution/39.c`
+- `C_Git/ICSSolution/4.c` → `14_ICS_Solutions/ICS_Solution/4.c`
+- `C_Git/ICSSolution/40.c` → `14_ICS_Solutions/ICS_Solution/40.c`
+- `C_Git/ICSSolution/41.c` → `14_ICS_Solutions/ICS_Solution/41.c`
+- `C_Git/ICSSolution/42.c` → `14_ICS_Solutions/ICS_Solution/42.c`
+- `C_Git/ICSSolution/43.c` → `14_ICS_Solutions/ICS_Solution/43.c`
+- `C_Git/ICSSolution/44.c` → `14_ICS_Solutions/ICS_Solution/44.c`
+- `C_Git/ICSSolution/45.c` → `14_ICS_Solutions/ICS_Solution/45.c`
+- `C_Git/ICSSolution/46.c` → `14_ICS_Solutions/ICS_Solution/46.c`
+- `C_Git/ICSSolution/47.c` → `14_ICS_Solutions/ICS_Solution/47.c`
+- `C_Git/ICSSolution/5.c` → `14_ICS_Solutions/ICS_Solution/5.c`
+- `C_Git/ICSSolution/50.c` → `14_ICS_Solutions/ICS_Solution/50.c`
+- `C_Git/ICSSolution/51.c` → `14_ICS_Solutions/ICS_Solution/51.c`
+- `C_Git/ICSSolution/52.c` → `14_ICS_Solutions/ICS_Solution/52.c`
+- `C_Git/ICSSolution/53.c` → `14_ICS_Solutions/ICS_Solution/53.c`
+- `C_Git/ICSSolution/54.c` → `14_ICS_Solutions/ICS_Solution/54.c`
+- `C_Git/ICSSolution/55.c` → `14_ICS_Solutions/ICS_Solution/55.c`
+- `C_Git/ICSSolution/56.C` → `14_ICS_Solutions/ICS_Solution/56.c`
+- `C_Git/ICSSolution/57.c` → `14_ICS_Solutions/ICS_Solution/57.c`
+- `C_Git/ICSSolution/58.c` → `14_ICS_Solutions/ICS_Solution/58.c`
+- `C_Git/ICSSolution/59.c` → `14_ICS_Solutions/ICS_Solution/59.c`
+- `C_Git/ICSSolution/6.c` → `14_ICS_Solutions/ICS_Solution/6.c`
+- `C_Git/ICSSolution/60.c` → `14_ICS_Solutions/ICS_Solution/60.c`
+- `C_Git/ICSSolution/61.c` → `14_ICS_Solutions/ICS_Solution/61.c`
+- `C_Git/ICSSolution/62.c` → `14_ICS_Solutions/ICS_Solution/62.c`
+- `C_Git/ICSSolution/63.c` → `14_ICS_Solutions/ICS_Solution/63.c`
+- `C_Git/ICSSolution/64.c` → `14_ICS_Solutions/ICS_Solution/64.c`
+- `C_Git/ICSSolution/65.c` → `14_ICS_Solutions/ICS_Solution/65.c`
+- `C_Git/ICSSolution/66.c` → `14_ICS_Solutions/ICS_Solution/66.c`
+- `C_Git/ICSSolution/67.c` → `14_ICS_Solutions/ICS_Solution/67.c`
+- `C_Git/ICSSolution/69.c` → `14_ICS_Solutions/ICS_Solution/69.c`
+- `C_Git/ICSSolution/7.c` → `14_ICS_Solutions/ICS_Solution/7.c`
+- `C_Git/ICSSolution/70.c` → `14_ICS_Solutions/ICS_Solution/70.c`
+- `C_Git/ICSSolution/71.c` → `14_ICS_Solutions/ICS_Solution/71.c`
+- `C_Git/ICSSolution/72.c` → `14_ICS_Solutions/ICS_Solution/72.c`
+- `C_Git/ICSSolution/73.c` → `14_ICS_Solutions/ICS_Solution/73.c`
+- `C_Git/ICSSolution/74.c` → `14_ICS_Solutions/ICS_Solution/74.c`
+- `C_Git/ICSSolution/75.c` → `14_ICS_Solutions/ICS_Solution/75.c`
+- `C_Git/ICSSolution/76.c` → `14_ICS_Solutions/ICS_Solution/76.c`
+- `C_Git/ICSSolution/77.c` → `14_ICS_Solutions/ICS_Solution/77.c`
+- `C_Git/ICSSolution/78.c` → `14_ICS_Solutions/ICS_Solution/78.c`
+- `C_Git/ICSSolution/79.c` → `14_ICS_Solutions/ICS_Solution/79.c`
+- `C_Git/ICSSolution/8.c` → `14_ICS_Solutions/ICS_Solution/8.c`
+- `C_Git/ICSSolution/80.c` → `14_ICS_Solutions/ICS_Solution/80.c`
+- `C_Git/ICSSolution/81.c` → `14_ICS_Solutions/ICS_Solution/81.c`
+- `C_Git/ICSSolution/9.c` → `14_ICS_Solutions/ICS_Solution/9.c`
+- `C_Git/ICSSolution/practice.c` → `14_ICS_Solutions/ICS_Solution/practice.c`
+- `C_Git/ICSSolution/practice1.c` → `14_ICS_Solutions/ICS_Solution/practice1.c`
+- `C_Git/ICSSolution/practice10.c` → `14_ICS_Solutions/ICS_Solution/practice10.c`
+- `C_Git/ICSSolution/practice11.c` → `14_ICS_Solutions/ICS_Solution/practice11.c`
+- `C_Git/ICSSolution/practice12.c` → `14_ICS_Solutions/ICS_Solution/practice12.c`
+- `C_Git/ICSSolution/practice13.c` → `14_ICS_Solutions/ICS_Solution/practice13.c`
+- `C_Git/ICSSolution/practice14.c` → `14_ICS_Solutions/ICS_Solution/practice14.c`
+- `C_Git/ICSSolution/practice15.c` → `14_ICS_Solutions/ICS_Solution/practice15.c`
+- `C_Git/ICSSolution/practice17.c` → `14_ICS_Solutions/ICS_Solution/practice17.c`
+- `C_Git/ICSSolution/practice2.c` → `14_ICS_Solutions/ICS_Solution/practice2.c`
+- `C_Git/ICSSolution/practice4.c` → `14_ICS_Solutions/ICS_Solution/practice4.c`
+- `C_Git/ICSSolution/practice5.c` → `14_ICS_Solutions/ICS_Solution/practice5.c`
+- `C_Git/ICSSolution/practice6.c` → `14_ICS_Solutions/ICS_Solution/practice6.c`
+- `C_Git/ICSSolution/practice7.c` → `14_ICS_Solutions/ICS_Solution/practice7.c`
+- `C_Git/ICSSolution/practice8.c` → `14_ICS_Solutions/ICS_Solution/practice8.c`
+- `C_Git/ICSSolution/practice9.c` → `14_ICS_Solutions/ICS_Solution/practice9.c`
+- `C_Git/ICSSolution/Q-1.c` → `14_ICS_Solutions/ICS_Solution/q_1.c`
+- `C_Git/ICSSolution/Q-10.c` → `14_ICS_Solutions/ICS_Solution/q_10.c`
+- `C_Git/ICSSolution/Q-11.c` → `14_ICS_Solutions/ICS_Solution/q_11.c`
+- `C_Git/ICSSolution/Q-12.c` → `14_ICS_Solutions/ICS_Solution/q_12.c`
+- `C_Git/ICSSolution/Q-13.c` → `14_ICS_Solutions/ICS_Solution/q_13.c`
+- `C_Git/ICSSolution/Q-14.c` → `14_ICS_Solutions/ICS_Solution/q_14.c`
+- `C_Git/ICSSolution/Q-15.c` → `14_ICS_Solutions/ICS_Solution/q_15.c`
+- `C_Git/ICSSolution/Q-2.c` → `14_ICS_Solutions/ICS_Solution/q_2.c`
+- `C_Git/ICSSolution/Q-3.c` → `14_ICS_Solutions/ICS_Solution/q_3.c`
+- `C_Git/ICSSolution/Q-4.c` → `14_ICS_Solutions/ICS_Solution/q_4.c`
+- `C_Git/ICSSolution/fucking 48 ft. mahim& leura labib.c` → `14_ICS_Solutions/ICS_Solution/q_48_triangle_angle_check.c`
+- `C_Git/ICSSolution/Q-5.c` → `14_ICS_Solutions/ICS_Solution/q_5.c`
+- `C_Git/ICSSolution/Q-6a.c` → `14_ICS_Solutions/ICS_Solution/q_6a.c`
+- `C_Git/ICSSolution/Q-6b.c` → `14_ICS_Solutions/ICS_Solution/q_6b.c`
+- `C_Git/ICSSolution/Q-6c.c` → `14_ICS_Solutions/ICS_Solution/q_6c.c`
+- `C_Git/ICSSolution/Q-6d.c` → `14_ICS_Solutions/ICS_Solution/q_6d.c`
+- `C_Git/ICSSolution/Q-7.c` → `14_ICS_Solutions/ICS_Solution/q_7.c`
+- `C_Git/ICSSolution/Q-8.c` → `14_ICS_Solutions/ICS_Solution/q_8.c`
+- `C_Git/ICSSolution/Q-9.c` → `14_ICS_Solutions/ICS_Solution/q_9.c`
+- `C_Git/Lab Final Ques Solve/123.c` → `15_Lab_Final_Practice/Lab_Final_Question_Solve/123.c`
+- `C_Git/Lab Final Ques Solve/q_1.c` → `15_Lab_Final_Practice/Lab_Final_Question_Solve/q_1.c`
+- `C_Git/Lab Final Ques Solve/q_2.c` → `15_Lab_Final_Practice/Lab_Final_Question_Solve/q_2.c`
+- `C_Git/Lab Final Ques Solve/q_3.c` → `15_Lab_Final_Practice/Lab_Final_Question_Solve/q_3.c`
+- `C_Git/Lab Final Ques Solve/q_4.c` → `15_Lab_Final_Practice/Lab_Final_Question_Solve/q_4.c`
+- `C_Git/Lab Final Ques Solve/summer24_1.c` → `15_Lab_Final_Practice/Lab_Final_Question_Solve/summer24_1.c`
+- `C_Git/Lab Final Ques Solve/summer24_2.c` → `15_Lab_Final_Practice/Lab_Final_Question_Solve/summer24_2.c`
+- `C_Git/Project/employees.txt` → `16_Projects/Project/Data_Files/employees.txt`
+- `C_Git/Project/Employee_records_management.c` → `16_Projects/Project/employee_records_management.c`
+- `C_Git/Project/habijabi.c` → `16_Projects/Project/habijabi.c`
+- `C_Git/Project/practice.c` → `16_Projects/Project/practice.c`
+- `C_Git/Project/practice2.c` → `16_Projects/Project/practice2.c`
+- `C_Git/Project/practice3.c` → `16_Projects/Project/practice3.c`
+- `C_Git/Project/practice4.c` → `16_Projects/Project/practice4.c`
+- `C_Git/Project/rough.c` → `16_Projects/Project/rough.c`
+- `C_Git/Practice.c` → `17_Miscellaneous_Practice/Root_Files/practice.c`
+- `C_Git/practice77.c` → `17_Miscellaneous_Practice/Root_Files/practice77.c`
+- `C_Git/practise.c` → `17_Miscellaneous_Practice/Root_Files/practice_2.c`
+- `C_Git/Q1.c` → `17_Miscellaneous_Practice/Root_Files/q1.c`
+- `C_Git/Q-1.c` → `17_Miscellaneous_Practice/Root_Files/q_1.c`
+- `C_Git/Untitled1.c` → `17_Miscellaneous_Practice/Root_Files/untitled1.c`
+- `C_Git/Testing/Assignment1.c` → `17_Miscellaneous_Practice/Testing/assignment1.c`
+- `C_Git/Testing/tst.c` → `17_Miscellaneous_Practice/Testing/tst.c`
+- `C_Git/Testing/tst3.c` → `17_Miscellaneous_Practice/Testing/tst3.c`
+- `C_Git/Vs code problem/1.c` → `17_Miscellaneous_Practice/VS_Code_Problem/1.c`
+- `C_Git/Vs code problem/2.c` → `17_Miscellaneous_Practice/VS_Code_Problem/2.c`

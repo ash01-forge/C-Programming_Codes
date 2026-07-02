@@ -1,0 +1,21 @@
+# Compiled output files
+*.exe
+*.o
+*.out
+*.obj
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# Python/virtual environment files accidentally created in practice folders
+.venv/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tempCodeRunnerFile.c

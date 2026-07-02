@@ -1,0 +1,4 @@
+------ All Employees ------
+(Ishmum , ID: 132, Dept: bba, Salary: 500000.00)
+(Adeeb, ID: 1234, Dept: CSE, Salary: 50000.00)
+---------------------------

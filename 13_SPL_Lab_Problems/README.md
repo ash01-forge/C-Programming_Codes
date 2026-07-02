@@ -1,0 +1,95 @@
+# 13 SPL Lab Problems
+
+Total files: **82**
+
+## Files
+
+### SPL_LAB
+- `3.c`
+- `4.c`
+- `5.c`
+- `loop1.c`
+- `loop10.c`
+- `loop2.c`
+- `loop3.c`
+- `loop4.c`
+- `loop5.c`
+- `loop6.c`
+- `loop7.c`
+- `loop8.c`
+- `loop9.c`
+- `oddusingcont.c`
+- `reverseerseofanumberber.c`
+- `rndm1.c`
+- `sum_ofallevendigits.c`
+- `sum_ofalltheodddigits.c`
+- `summofthenumberanditisreverse.c`
+
+### SPL_Lab_Aadeeb
+- `pb1.c`
+- `pb10.c`
+- `pb11.c`
+- `pb12.c`
+- `pb14.c`
+- `pb15.c`
+- `pb16.c`
+- `pb17.c`
+- `pb18.c`
+- `pb19.c`
+- `pb2.c`
+- `pb20.c`
+- `pb21.c`
+- `pb22.c`
+- `pb23.c`
+- `pb24.c`
+- `pb25.c`
+- `pb26.c`
+- `pb27.c`
+- `pb28.c`
+- `pb29.c`
+- `pb3.c`
+- `pb30.c`
+- `pb4.c`
+- `pb5_c.c`
+- `pb7.c`
+- `pb8.c`
+
+### SPL_Lab_Aadeeb/Data_Files
+- `pb29_cv.txt`
+
+### SPL_Lab_Aadeeb/New_Codes
+- `2d_matrix_max.c`
+- `2d_matrix_mul.c`
+- `array_input_output.c`
+- `basic_left_triangle.c`
+- `basic_pattern.c`
+- `basic_pattern2.c`
+- `basic_pyramid.c`
+- `basic_star_pattern.c`
+- `binary_pattern.c`
+- `copy_array_elements.c`
+- `ct_2_pattern.c`
+- `dino.c`
+- `factorial.c`
+- `gcd_lcm.c`
+- `hello.c`
+- `left_triangle.c`
+- `mid_question.c`
+- `negativeseries.c`
+- `odd_rectangle.c`
+- `palindrome_leet.c`
+- `palindromee.c`
+- `pattern_2darray.c`
+- `printing_space_for_basic_pattern.c`
+- `printing_space_for_basic_pattern_2.c`
+- `regularpattern.c`
+- `reverseerse.c`
+- `reverseerse_array.c`
+- `reverseerse_printing_of_a_number.c`
+- `row_diagonal_sum.c`
+- `sorted_array.c`
+- `symmetric_mat.c`
+- `timepass.c`
+- `unique_diamond.c`
+- `x_pattern.c`
+- `z_pattern.c`
